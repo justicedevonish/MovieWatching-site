@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Instructions 
 ## Make sure Node.js is installed as well as npm
 ### `npm install`
-### `npm start` Within public directory
+### `npm start` Within public directory 
 ### `To start Back-end/Database "node index.js`
-### `Dependencies for Front-end`
+### `Dependencies for Front-end` `Or type in terminal npm i`
 ### npm install aos axios bootstrap cors mongodb mongoose react react-dom react-router-dom react-scripts swiper
 
 ### `Dependencies for Back-end`
