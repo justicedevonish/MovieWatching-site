@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-Front-end is running on [http://localhost:3001]
+Front-end is running on [http://localhost:3000]
 Back-end is running on [http://localhost:3001]
 
 
