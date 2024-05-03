@@ -1,0 +1,25 @@
+.movie-playing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.movie-playing iframe {
+  width: 75vw; 
+  height: 75vh; 
+  border-radius: 15px;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px); 
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.5); 
+}
+
+.title {
+  text-align: center; 
+  margin-top: 40px; 
+  color: black;
+  font-size: 500px;
+  font-family: 'Racing Sans One', cursive;
+  background-color: white;
+}

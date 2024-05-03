@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+}
+
+.container h1 {
+  color: blue;
+  font-family: 'Racing Sans One', cursive;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  z-index: 1;
+  position: absolute; /* Added this to position the h1 element */
+  top: 0; /* Aligns the h1 element with the top of the container */
+  left: 0; /* Aligns the h1 element with the left of the container */
+  padding: 1rem; /* Adds some space around the h1 element */
+}
+
+
+.container form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 0.25rem;
+  z-index: 1;
+}
+
+.container label {
+  color: rgba(255, 255, 255, 0.528);
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.container input[type="text"],
+.container input[type="email"],
+.container input[type="password"] {
+  height: 2em;
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border: none;
+  border-radius: 0.25rem;
+}
+
+.container h1 {
+  color: blue;
+  font-family: 'Racing Sans One', cursive;
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  z-index: 1;
+}
+

@@ -1,0 +1,63 @@
+[
+    {
+      "_id": 1,
+      "previewImg": "../assets/movies/despicable.jpeg",
+      "title": "Despicable Me 4"
+    },
+    {
+      "_id": 2,
+      "previewImg": "../assets/movies/hungergame.jpeg",
+      "title": "Hunger Games"
+    },
+    {
+      "_id": 3,
+      "previewImg": "../assets/movies/if.jpeg",
+      "title": "If"
+    },
+    {
+      "_id": 4,
+      "previewImg": "../assets/movies/insideout2.jpeg",
+      "title": "Inside Out 2"
+    },
+    {
+      "_id": 5,
+      "previewImg": "../assets/movies/monkeyman.jpeg",
+      "title": "Monkey Man"
+    },
+    {
+      "_id": 6,
+      "previewImg": "../assets/movies/mortalcombat.jpeg",
+      "title": "Mortal Combat 2"
+    },
+    {
+      "_id": 7,
+      "previewImg": "../assets/movies/panda.jpeg",
+      "title": "Kung Fu Panda 4"
+    },
+    {
+      "_id": 8,
+      "previewImg": "../assets/movies/quietplace.jpeg",
+      "title": "Quiet Place Day One"
+    },
+    {
+      "_id": 9,
+      "previewImg": "../assets/movies/sonic.jpeg",
+      "title": "Sonic The HedgeHog 3"
+    },
+    {
+      "_id": 10,
+      "previewImg": "../assets/movies/spiderman.jpeg",
+      "title": "Spiderman Beyond the Spiderverse"
+    },
+    {
+      "_id": 11,
+      "previewImg": "../assets/movies/strangers.jpeg",
+      "title": "Strangers"
+    },
+    {
+      "_id": 12,
+      "previewImg": "../assets/movies/thefallguy.jpeg",
+      "title": "The Fall Guy"
+    }
+  ]
+  

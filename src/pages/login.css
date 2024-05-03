@@ -1,0 +1,51 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This makes sure the container takes up the full viewport height */
+    position: relative; /* Added this to position the pseudo-element relative to the container */
+}
+
+.container::before {
+    content: "";
+    background-image: url('/Users/jay/webmovie/public/assets/movies/bg-spiderverse.jpg');
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    font-size: 8rem;
+    visibility: hidden;
+    opacity: 0;
+    transition: 1s;
+}
+
+.container h1 {
+    color: blue;
+    font-family: 'Racing Sans One', cursive;
+    font-size: 100px;
+    color: var(--primary);
+    z-index: 1; /* Added this to make sure the text appears above the background image */
+}
+
+.container form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    z-index: 1; /* Added this to make sure the form appears above the background image */
+}
+
+.container label {
+    color: white;
+    font-size: 1.5em; /* Makes the label text bigger */
+}
+
+.container input[type="email"],
+.container input[type="password"] {
+    height: 2em; /* Makes the input fields bigger */
+    margin-bottom: 1em; /* Creates space between each input field */
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "_id": 1,
+    "thumbnail": "../assets/ratings/rating-1.jpeg",
+    "category": "Fast X",
+    "title": "How many are they going to make of this series?????",
+    "author": {
+      "name": "CoolDude101",
+      "image": "../assets/ratings/rating-author-1.jpg"
+    },
+    "date": "April 1, 2024"
+  },
+  {
+    "_id": 2,
+    "thumbnail": "../assets/ratings/rating-2.jpeg",
+    "category": "Little Mermaid",
+    "title": "Why are disney movies not as good as the past",
+    "author": {
+      "name": "HardCoreCoderXD",
+      "image": "../assets/ratings/rating-author-2.jpg"
+    },
+    "date": "March 2, 2024"
+  },
+  {
+    "_id": 3,
+    "thumbnail": "../assets/ratings/rating-3.jpeg",
+    "category": "Mission Impossible",
+    "title": "This was one of the best movies I have ever seen!",
+    "author": {
+      "name": "Mark",
+      "image": "../assets/ratings/rating-author-3.jpg"
+    },
+    "date": "February 14, 2024"
+  },
+  {
+    "_id": 4,
+    "thumbnail": "../assets/ratings/rating-4.jpeg",
+    "category": "Transformers",
+    "title": "This movie reminds me of godzilla x king kong",
+    "author": {
+      "name": "Louisington",
+      "image": "../assets/ratings/rating-author-4.jpg"
+    },
+    "date": "January 1, 2024"
+  }
+]
