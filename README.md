@@ -5,15 +5,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Instructions 
 ## Make sure Node.js is installed as well as npm
 ### `npm install`
-### `npm start`
+### `npm start` Within public directory
 ### `To start Back-end/Database "node index.js`
 ### `Dependencies for Front-end`
-npm install aos axios bootstrap cors mongodb mongoose react react-dom react-router-dom react-scripts swiper
+### npm install aos axios bootstrap cors mongodb mongoose react react-dom react-router-dom react-scripts swiper
 
 ### `Dependencies for Back-end`
-npm install cors express mongoose nodemon
+### npm install cors express mongoose nodemon
 
-### `Database Used: MongoDB (MongoCompass)
+### `Database Used: MongoDB (MongoCompass)`
 
 
 
